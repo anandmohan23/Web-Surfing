@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Web  Surfing",
+  "description": "All personal Site at one place",
+  "version": "1.0.0",
+  "icons": { "128": "websurfing-128.png" },
+  "browser_action": {
+    "default_icon": "websurfing-19.png",
+    "default_popup": "window.html"
+  },
+  "permissions": ["activeTab"]
+}
